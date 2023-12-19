@@ -10,13 +10,13 @@ Users should be able to:
 
 ## Screenshot
 
-![design]()
-![active-states]()
+![design](https://github.com/Maxim-Pv/music_app/blob/master/screenshots/design.jpeg)
+![active-states](https://github.com/Maxim-Pv/music_app/blob/master/screenshots/active-states.jpeg)
 
 ## Links
 
-- Solution URL: [MySolution]()
-- Live Site URL: [VisiteSite]()
+- Solution URL: [MySolution](https://github.com/Maxim-Pv/music_app)
+- Live Site URL: [VisiteSite](https://music-app-ebon-nine.vercel.app/)
 - Useful link to video tutorial: [youtube](https://www.youtube.com/watch?v=ILkLgKGgels)
 
 ## Built with
